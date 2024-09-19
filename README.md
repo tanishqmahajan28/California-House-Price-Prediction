@@ -76,3 +76,6 @@ The models were evaluated using metrics such as:
 
 The California house price prediction project demonstrates how machine learning models can predict house prices effectively. Future work could focus on incorporating more detailed geographical data and improving feature selection.
 
+## Contact
+
+For any queries or suggestions, please contact Tanishq Mahajan at trmahajan28@gmail.com.
