@@ -56,8 +56,8 @@ Several regression models were implemented to predict house prices, including:
 
 - **Linear Regression**
 - **Random Forest Regressor**
-- **Gradient Boosting Regressor**
-- **XGBoost Regressor**
+- **Decision Tree Regressor**
+- **Support Vector Regressor**
 
 ## Model Evaluation
 
@@ -69,8 +69,8 @@ The models were evaluated using metrics such as:
 
 ## Results
 
-- **Best Performing Model:** Gradient Boosting Regressor, with the lowest MAE and highest R-squared value.
-- **Comparison:** Gradient Boosting performed better than other models in terms of prediction.
+- **Best Performing Model:** Linear Regressor, with the lowest Overfitting and highest R-squared value.
+- **Comparison:** Linear Regressor performed better than other models in terms of prediction.
 
 ## Conclusion and Future Work
 
