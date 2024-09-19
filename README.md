@@ -14,10 +14,6 @@ This project focuses on predicting California house prices using machine learnin
 - [Model Evaluation](#model-evaluation)
 - [Results](#results)
 - [Conclusion and Future Work](#conclusion-and-future-work)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Overview
 
