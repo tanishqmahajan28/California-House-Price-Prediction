@@ -58,6 +58,7 @@ Several regression models were implemented to predict house prices, including:
 - **Random Forest Regressor**
 - **Decision Tree Regressor**
 - **Support Vector Regressor**
+- **Polynomial Regressor**
 
 ## Model Evaluation
 
